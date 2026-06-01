@@ -54,11 +54,11 @@ No. Tsugawa Magic Back to Top is engineered for maximum performance. It uses nat
 
 == Changelog ==
 
+= 1.0.1 =
+* Minor performance improvements and stability updates.
+
 = 1.0.0 =
 * Initial release.
-
-= 1.0.1 =
-* Update checker verification test.
 
 == Credits ==
 * Arrow icons provided by Lucide (MIT License).
