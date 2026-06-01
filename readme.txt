@@ -4,7 +4,7 @@ Tags: back to top, scroll to top, smooth scroll, floating button, ui
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,9 @@ No. Tsugawa Magic Back to Top is engineered for maximum performance. It uses nat
 
 = 1.0.0 =
 * Initial release.
+
+= 1.0.1 =
+* Update checker verification test.
 
 == Credits ==
 * Arrow icons provided by Lucide (MIT License).
