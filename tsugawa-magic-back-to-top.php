@@ -22,6 +22,7 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
     __FILE__,
     'tsugawa-magic-back-to-top'
 );
+$myUpdateChecker->getVcsApi()->enableReleaseAssets();
 
 class Magic_Back_To_Top {
     private $option_name = 'mbtt_settings';
