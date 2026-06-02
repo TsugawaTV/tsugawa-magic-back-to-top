@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tsugawa-magic-back-to-top\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-01 13:53+0900\n"
-"PO-Revision-Date: 2026-06-01 14:33+0900\n"
+"PO-Revision-Date: 2026-06-02 02:36+0900\n"
 "Last-Translator: Toru Tsugawa\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -235,3 +235,7 @@ msgstr "スロット %s の設定を削除して空にしますか？"
 
 msgid "Back to top"
 msgstr "ページトップへ戻る"
+
+# Plugin Description
+msgid "A simple, lightweight, and beautiful Back to Top button. Features a pixel-perfect floating UI that seamlessly adapts to all screens."
+msgstr "シンプルで軽量、美しい「トップへ戻る」ボタン。あらゆる画面にシームレスに適応するピクセルパーフェクトなフローティングUIを備えています。"

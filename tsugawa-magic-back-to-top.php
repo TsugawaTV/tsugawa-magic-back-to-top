@@ -2,7 +2,7 @@
 /*
 Plugin Name: Tsugawa Magic Back to Top
 Description: A simple, lightweight, and beautiful Back to Top button. Features a pixel-perfect floating UI that seamlessly adapts to all screens.
-Version: 1.0.1
+Version: 1.0.2
 Author: Toru Tsugawa
 Text Domain: tsugawa-magic-back-to-top
 License: GPL v2 or later
