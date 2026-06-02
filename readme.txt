@@ -4,7 +4,7 @@ Tags: back to top, scroll to top, smooth scroll, floating button, ui
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,9 @@ If you find any bugs or have feature requests, please open an issue on our [GitH
 バグの報告や機能改善のご要望がございましたら、GitHubリポジトリの [Issues](https://github.com/TsugawaTV/tsugawa-magic-back-to-top/issues) よりお寄せください。皆様からのフィードバックを心よりお待ちしております。
 
 == Changelog ==
+
+= 1.0.3 =
+* Update: README.md completely redesigned with visual assets and feature highlights. (README.mdのリニューアル)
 
 = 1.0.2 =
 * Added bilingual support (English/Japanese). (プラグイン情報の日英バイリンガル対応)
