@@ -20,7 +20,7 @@ Built with the philosophy of being "Friendly for Non-Engineers," **Tsugawa Magic
 
 No heavy libraries. Built with pure Vanilla JS and modern CSS.
 
-* **Official Plugin Page:** [https://tsugawa.tv/plugins/magic-back-to-top/](https://tsugawa.tv/plugins/magic-back-to-top/)
+* **Official Plugin Page:** [https://tsugawa.tv/plugins/magic-back-to-top/](https://tsugawa.tv/plugins/magic-back-to-top/en/)
 * **100% Free for Commercial Use:** Safely use it on your personal blogs or client projects.
 
 ### ✨ Key Features
